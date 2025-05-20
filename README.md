@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
 =================================================================================================================================
 
-QA Automation Engineer
-----------------------
+QA Automation Engineer with a passion for solving complex problems and optimizing workflows. I thrive in environments where I can break down challenges and come up with creative solutions—especially when working with automation and algorithms. I’m driven by the opportunity to grow and tackle tasks that push me to learn and improve continuously.
 
-in progress
+My approach is rooted in attention to detail, but I also believe in thinking outside the box when it comes to problem-solving. I value collaboration with smart, energetic teams, where leadership, learning, and a human-centered approach to work are key. Let’s create something impactful together!
 
 *   🌍  I'm based in New York City.
 *   🧠  I enjoy solving complex problems, collaborating on challenging projects, and exploring automation solutions that boost quality and efficiency.
