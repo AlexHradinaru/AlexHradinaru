@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
+Hi ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dkODRtcHBpcmw2OXZjNG5oeXN3andnYXRja2dqYmN6YzUzYnE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif)My name is Alex
 =================================================================================================================================
 
 QA Automation Engineer with a passion for solving complex problems and optimizing workflows. I thrive in environments where I can break down challenges and come up with creative solutions—especially when working with automation and algorithms. I’m driven by the opportunity to grow and tackle tasks that push me to learn and improve continuously.
