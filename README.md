@@ -8,7 +8,7 @@ My approach is rooted in attention to detail, but I also believe in thinking out
 *   🌍  I'm based in New York City.
 *   🧠  I enjoy solving complex problems, collaborating on challenging projects, and exploring automation solutions that boost quality and efficiency.
 *   🖥️  See my portfolio at [MyPortfolio](https://github.com/AlexHradinaru/Portfolio)
-*   ✉️  You can contact me at [alexhradqa@gmail.com](mailto:alexhradqa@gmail.com)
+*   ✉️  You can contact me at [alexgradqa@gmail.com](mailto:alexgradqa@gmail.com)
 *   🤝  Let’s connect! I'm open to opportunities and collaborations in tech innovation.
 *   ⚡   I speak fluent JavaScript—with a slight accent in Python.
   ### Skills 
